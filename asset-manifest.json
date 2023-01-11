@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.65358bdd.css",
-    "main.js": "./static/js/main.a4fd9e87.js",
-    "static/media/portfolio.pdf": "./static/media/portfolio.f60809900a663d305305.pdf",
+    "main.css": "./static/css/main.25ab000a.css",
+    "main.js": "./static/js/main.64f2ebb6.js",
+    "static/media/portfolio.pdf": "./static/media/portfolio.ec65a46a6f5299563462.pdf",
     "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
     "static/media/Inter-Medium.ttf": "./static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
     "static/media/Inter-Regular.ttf": "./static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/russian-travel.png": "./static/media/russian-travel.5f66d921da421a1f27ea.png",
     "static/media/BellotaText-Bold.ttf": "./static/media/BellotaText-Bold.ad922308c622eb12c00c.ttf",
     "static/media/Inter-Bold.woff": "./static/media/Inter-Bold.8f8c5ea1d3a580b04e28.woff",
     "static/media/Inter-SemiBold.woff": "./static/media/Inter-SemiBold.8709b7f1f6fabaaa7896.woff",
@@ -27,11 +28,11 @@
     "static/media/grid.svg": "./static/media/grid.d83bdf41b3d2fd133a46.svg",
     "static/media/grid_black.svg": "./static/media/grid_black.64b608a359a96b3e2ae4.svg",
     "index.html": "./index.html",
-    "main.65358bdd.css.map": "./static/css/main.65358bdd.css.map",
-    "main.a4fd9e87.js.map": "./static/js/main.a4fd9e87.js.map"
+    "main.25ab000a.css.map": "./static/css/main.25ab000a.css.map",
+    "main.64f2ebb6.js.map": "./static/js/main.64f2ebb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.65358bdd.css",
-    "static/js/main.a4fd9e87.js"
+    "static/css/main.25ab000a.css",
+    "static/js/main.64f2ebb6.js"
   ]
 }
