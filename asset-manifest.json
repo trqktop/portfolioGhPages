@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.25ab000a.css",
-    "main.js": "./static/js/main.64f2ebb6.js",
+    "main.css": "./static/css/main.9130c302.css",
+    "main.js": "./static/js/main.d6e2e542.js",
     "static/media/portfolio.pdf": "./static/media/portfolio.ec65a46a6f5299563462.pdf",
     "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
@@ -22,17 +22,18 @@
     "static/media/Inter-Medium.woff2": "./static/media/Inter-Medium.8a50feca5194fae5cc45.woff2",
     "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.6fcad65b7a8f7ffabb8e.woff2",
     "static/media/BellotaText-Bold.woff": "./static/media/BellotaText-Bold.de86dac2e25e3c8afb78.woff",
+    "static/media/mortal-kombat-3.png": "./static/media/mortal-kombat-3.e5445e6f1c83d3ac7ce2.png",
     "static/media/RobotoSlab-Medium.woff": "./static/media/RobotoSlab-Medium.e8d7f4fba150a2eb2967.woff",
     "static/media/BellotaText-Bold.woff2": "./static/media/BellotaText-Bold.ea4b5bb841181649a77b.woff2",
     "static/media/RobotoSlab-Medium.woff2": "./static/media/RobotoSlab-Medium.0571f82d6a986a598df3.woff2",
     "static/media/grid.svg": "./static/media/grid.d83bdf41b3d2fd133a46.svg",
     "static/media/grid_black.svg": "./static/media/grid_black.64b608a359a96b3e2ae4.svg",
     "index.html": "./index.html",
-    "main.25ab000a.css.map": "./static/css/main.25ab000a.css.map",
-    "main.64f2ebb6.js.map": "./static/js/main.64f2ebb6.js.map"
+    "main.9130c302.css.map": "./static/css/main.9130c302.css.map",
+    "main.d6e2e542.js.map": "./static/js/main.d6e2e542.js.map"
   },
   "entrypoints": [
-    "static/css/main.25ab000a.css",
-    "static/js/main.64f2ebb6.js"
+    "static/css/main.9130c302.css",
+    "static/js/main.d6e2e542.js"
   ]
 }
