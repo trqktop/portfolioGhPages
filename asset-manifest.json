@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.42f246ef.css",
-    "main.js": "./static/js/main.95b960b1.js",
+    "main.css": "./static/css/main.559238b0.css",
+    "main.js": "./static/js/main.5a393645.js",
     "static/media/portfolio.pdf": "./static/media/portfolio.ec65a46a6f5299563462.pdf",
+    "static/media/portfolio.png": "./static/media/portfolio.28c30c444a8ebf8e5bc7.png",
     "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
     "static/media/Inter-Medium.ttf": "./static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
@@ -12,7 +13,6 @@
     "static/media/Inter-Bold.woff": "./static/media/Inter-Bold.8f8c5ea1d3a580b04e28.woff",
     "static/media/Inter-SemiBold.woff": "./static/media/Inter-SemiBold.8709b7f1f6fabaaa7896.woff",
     "static/media/Inter-Medium.woff": "./static/media/Inter-Medium.2faa383bb66313c2a072.woff",
-    "static/media/portfolio.png": "./static/media/portfolio.f2e653320c20a64439b3.png",
     "static/media/Inter-Regular.woff": "./static/media/Inter-Regular.f8c4b51c613b8c0f88ea.woff",
     "static/media/mesto-project.png": "./static/media/mesto-project.2726aaed67ac1eca2065.png",
     "static/media/RobotoSlab-Medium.ttf": "./static/media/RobotoSlab-Medium.876cc93e0cffdc827eb7.ttf",
@@ -23,17 +23,27 @@
     "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.6fcad65b7a8f7ffabb8e.woff2",
     "static/media/BellotaText-Bold.woff": "./static/media/BellotaText-Bold.de86dac2e25e3c8afb78.woff",
     "static/media/mortal-kombat-3.png": "./static/media/mortal-kombat-3.e5445e6f1c83d3ac7ce2.png",
+    "static/media/cat_color.png": "./static/media/cat_color.d0426254f7dd8cb9948b.png",
+    "static/media/cat_color-1.png": "./static/media/cat_color-1.557b23f1e5fd3f470b59.png",
     "static/media/RobotoSlab-Medium.woff": "./static/media/RobotoSlab-Medium.e8d7f4fba150a2eb2967.woff",
     "static/media/BellotaText-Bold.woff2": "./static/media/BellotaText-Bold.ea4b5bb841181649a77b.woff2",
     "static/media/RobotoSlab-Medium.woff2": "./static/media/RobotoSlab-Medium.0571f82d6a986a598df3.woff2",
+    "static/media/Block.svg": "./static/media/Block.efc21afb44e2b320a0cac1f3e7abd378.svg",
+    "static/media/Block-5.svg": "./static/media/Block-5.f4741faa44c066b806df3f4f3868c59e.svg",
+    "static/media/react-calculator.png": "./static/media/react-calculator.cd076a5a38bdbde8672e.png",
+    "static/media/Block-6.svg": "./static/media/Block-6.b311b17939802e72f8c65baef70c4c08.svg",
+    "static/media/Перфекционист.svg": "./static/media/Перфекционист.b77b298eb9a0782f36590d3928c3a57c.svg",
+    "static/media/Block-1.svg": "./static/media/Block-1.63ad8dc023352dc5bb84653fdba115d6.svg",
+    "static/media/Block-3.svg": "./static/media/Block-3.0307ae79e31b2263424ef4c406a953ef.svg",
+    "static/media/Block-4.svg": "./static/media/Block-4.0063b248114b21e3139855a4dcb7aa23.svg",
     "static/media/grid.svg": "./static/media/grid.d83bdf41b3d2fd133a46.svg",
     "static/media/grid_black.svg": "./static/media/grid_black.64b608a359a96b3e2ae4.svg",
     "index.html": "./index.html",
-    "main.42f246ef.css.map": "./static/css/main.42f246ef.css.map",
-    "main.95b960b1.js.map": "./static/js/main.95b960b1.js.map"
+    "main.559238b0.css.map": "./static/css/main.559238b0.css.map",
+    "main.5a393645.js.map": "./static/js/main.5a393645.js.map"
   },
   "entrypoints": [
-    "static/css/main.42f246ef.css",
-    "static/js/main.95b960b1.js"
+    "static/css/main.559238b0.css",
+    "static/js/main.5a393645.js"
   ]
 }
