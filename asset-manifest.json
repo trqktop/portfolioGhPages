@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.559238b0.css",
-    "main.js": "./static/js/main.5a393645.js",
-    "static/media/portfolio.pdf": "./static/media/portfolio.ec65a46a6f5299563462.pdf",
+    "main.js": "./static/js/main.848d29d5.js",
     "static/media/portfolio.png": "./static/media/portfolio.28c30c444a8ebf8e5bc7.png",
     "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
     "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
@@ -17,17 +16,18 @@
     "static/media/mesto-project.png": "./static/media/mesto-project.2726aaed67ac1eca2065.png",
     "static/media/RobotoSlab-Medium.ttf": "./static/media/RobotoSlab-Medium.876cc93e0cffdc827eb7.ttf",
     "static/media/how-to-learn-plus.png": "./static/media/how-to-learn-plus.00e905b2981b37c25ad6.png",
+    "static/media/portfolio.pdf": "./static/media/portfolio.c3de2338625e1402b5b5.pdf",
     "static/media/Inter-SemiBold.woff2": "./static/media/Inter-SemiBold.ab564c2dbbe039da8cb5.woff2",
     "static/media/Inter-Bold.woff2": "./static/media/Inter-Bold.eccbcfa9bc0203198ac6.woff2",
     "static/media/Inter-Medium.woff2": "./static/media/Inter-Medium.8a50feca5194fae5cc45.woff2",
     "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.6fcad65b7a8f7ffabb8e.woff2",
     "static/media/BellotaText-Bold.woff": "./static/media/BellotaText-Bold.de86dac2e25e3c8afb78.woff",
-    "static/media/mortal-kombat-3.png": "./static/media/mortal-kombat-3.e5445e6f1c83d3ac7ce2.png",
-    "static/media/cat_color.png": "./static/media/cat_color.d0426254f7dd8cb9948b.png",
-    "static/media/cat_color-1.png": "./static/media/cat_color-1.557b23f1e5fd3f470b59.png",
     "static/media/RobotoSlab-Medium.woff": "./static/media/RobotoSlab-Medium.e8d7f4fba150a2eb2967.woff",
     "static/media/BellotaText-Bold.woff2": "./static/media/BellotaText-Bold.ea4b5bb841181649a77b.woff2",
     "static/media/RobotoSlab-Medium.woff2": "./static/media/RobotoSlab-Medium.0571f82d6a986a598df3.woff2",
+    "static/media/mortal-kombat-3.png": "./static/media/mortal-kombat-3.1fe5c11c8ef73db78c59.png",
+    "static/media/cat_color.png": "./static/media/cat_color.2f820c02a3d389e7b37d.png",
+    "static/media/cat_color-1.png": "./static/media/cat_color-1.f6e06e26116c544d0233.png",
     "static/media/Block.svg": "./static/media/Block.efc21afb44e2b320a0cac1f3e7abd378.svg",
     "static/media/Block-5.svg": "./static/media/Block-5.f4741faa44c066b806df3f4f3868c59e.svg",
     "static/media/react-calculator.png": "./static/media/react-calculator.cd076a5a38bdbde8672e.png",
@@ -40,10 +40,10 @@
     "static/media/grid_black.svg": "./static/media/grid_black.64b608a359a96b3e2ae4.svg",
     "index.html": "./index.html",
     "main.559238b0.css.map": "./static/css/main.559238b0.css.map",
-    "main.5a393645.js.map": "./static/js/main.5a393645.js.map"
+    "main.848d29d5.js.map": "./static/js/main.848d29d5.js.map"
   },
   "entrypoints": [
     "static/css/main.559238b0.css",
-    "static/js/main.5a393645.js"
+    "static/js/main.848d29d5.js"
   ]
 }
